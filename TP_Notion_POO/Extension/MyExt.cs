@@ -35,7 +35,7 @@ namespace TP_Notion_POO.Extension
             return list;
         }
 
-        public static IEnumerable<Etudiant> where(this List<Etudiant> source, Predicate<Etudiant> func)
+        public static IEnumerable<Etudiant> whereClaas(this List<Etudiant> source, Predicate<Etudiant> func)
         {
             //List<Etudiant> etu = new List<Etudiant>();
             foreach (Etudiant sourceItem in source)

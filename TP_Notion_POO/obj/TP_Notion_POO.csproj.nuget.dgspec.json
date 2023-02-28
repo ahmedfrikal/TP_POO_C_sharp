@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahmed\\OneDrive\\Bureau\\Mon Espace de travail\\EHEI\\4eme anné\\Semestre2\\TP_Notion_POO\\TP_Notion_POO\\TP_Notion_POO.csproj": {}
+    "C:\\Users\\Ahmed\\OneDrive\\Bureau\\Mon Espace de travail\\EHEI\\4eme anné\\Semestre2\\TP_Notion_POO\\TP_POO_C_sharp\\TP_Notion_POO\\TP_Notion_POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahmed\\OneDrive\\Bureau\\Mon Espace de travail\\EHEI\\4eme anné\\Semestre2\\TP_Notion_POO\\TP_Notion_POO\\TP_Notion_POO.csproj": {
+    "C:\\Users\\Ahmed\\OneDrive\\Bureau\\Mon Espace de travail\\EHEI\\4eme anné\\Semestre2\\TP_Notion_POO\\TP_POO_C_sharp\\TP_Notion_POO\\TP_Notion_POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmed\\OneDrive\\Bureau\\Mon Espace de travail\\EHEI\\4eme anné\\Semestre2\\TP_Notion_POO\\TP_Notion_POO\\TP_Notion_POO.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed\\OneDrive\\Bureau\\Mon Espace de travail\\EHEI\\4eme anné\\Semestre2\\TP_Notion_POO\\TP_POO_C_sharp\\TP_Notion_POO\\TP_Notion_POO.csproj",
         "projectName": "TP_Notion_POO",
-        "projectPath": "C:\\Users\\Ahmed\\OneDrive\\Bureau\\Mon Espace de travail\\EHEI\\4eme anné\\Semestre2\\TP_Notion_POO\\TP_Notion_POO\\TP_Notion_POO.csproj",
+        "projectPath": "C:\\Users\\Ahmed\\OneDrive\\Bureau\\Mon Espace de travail\\EHEI\\4eme anné\\Semestre2\\TP_Notion_POO\\TP_POO_C_sharp\\TP_Notion_POO\\TP_Notion_POO.csproj",
         "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmed\\OneDrive\\Bureau\\Mon Espace de travail\\EHEI\\4eme anné\\Semestre2\\TP_Notion_POO\\TP_Notion_POO\\obj\\",
+        "outputPath": "C:\\Users\\Ahmed\\OneDrive\\Bureau\\Mon Espace de travail\\EHEI\\4eme anné\\Semestre2\\TP_Notion_POO\\TP_POO_C_sharp\\TP_Notion_POO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",

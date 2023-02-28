@@ -61,7 +61,8 @@ Console.WriteLine("\n -- Have Fix --  \n");
 
 List<Etudiant> et = new List<Etudiant>();
 
-et=professeur1.etudiants.Where((etudiant) => { return etudiant.nom == "IKRAM"; }).ToList();
+
+et=professeur1.etudiants.whereClaas(( etudiant) => { return etudiant.nom == "ahmed"; }).ToList();
 
 Console.WriteLine(et.Count);
 
